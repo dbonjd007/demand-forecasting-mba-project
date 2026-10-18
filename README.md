@@ -14,7 +14,7 @@ This capstone project evaluates classical time-series statistical models against
 
 ## 🔬 Comparative Methodology & Framework
 
-1. **Statistical Econometric Models:** ARIMA, Prophet, and XGBoost for baseline seasonal decomposition.
+1. **Statistical Econometric Models:** ARIMA / ARIMAX for baseline seasonal decomposition.
 2. **Additive Time-Series Models:** Meta Prophet for handling complex seasonality and holiday trends.
 3. **Machine Learning Ensembles:** XGBoost with feature-engineered lag variables, rolling means, and exogenous indicators.
 
